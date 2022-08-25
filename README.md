@@ -1,4 +1,4 @@
-# casdoor-nginx-module
+# openresty-nginx-module
 This is an nginx gateway plugin based on openresty. We will show you the steps below.
 
 ## What you need
